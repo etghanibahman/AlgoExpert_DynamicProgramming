@@ -15,6 +15,7 @@ namespace NumberOfWaysToMakeChange
             Console.WriteLine($"Number Of Ways To Make Change is: { output } ");
         }
 
+        // O(nd) Time, O(n) Space
         public static int NumberOfWaysToMakeChange(int n, int[] denoms)
         {
             int[] memos = new int[n + 1];
