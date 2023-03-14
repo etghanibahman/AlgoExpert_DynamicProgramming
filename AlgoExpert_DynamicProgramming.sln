@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfWaysToMakeChange", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumberOfCoinsForChange", "MinNumberOfCoinsForChange\MinNumberOfCoinsForChange.csproj", "{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96630581-F6C3-42CF-BDA8-38A6A46BDA82} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
+		{86229433-273E-4290-A101-F4D152B6C675} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
+		{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AAB4CC66-D4F2-4476-9491-5D35C2032E3B}
