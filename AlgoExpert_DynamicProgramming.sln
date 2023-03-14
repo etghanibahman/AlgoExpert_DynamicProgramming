@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubsetSumNoAdjacent", "MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent.csproj", "{96630581-F6C3-42CF-BDA8-38A6A46BDA82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSubsetSumNoAdjacent", "MaxSubsetSumNoAdjacent\MaxSubsetSumNoAdjacent.csproj", "{96630581-F6C3-42CF-BDA8-38A6A46BDA82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfWaysToMakeChange", "NumberOfWaysToMakeChange\NumberOfWaysToMakeChange.csproj", "{86229433-273E-4290-A101-F4D152B6C675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfWaysToMakeChange", "NumberOfWaysToMakeChange\NumberOfWaysToMakeChange.csproj", "{86229433-273E-4290-A101-F4D152B6C675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumberOfCoinsForChange", "MinNumberOfCoinsForChange\MinNumberOfCoinsForChange.csproj", "{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{86229433-273E-4290-A101-F4D152B6C675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86229433-273E-4290-A101-F4D152B6C675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86229433-273E-4290-A101-F4D152B6C675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E4F3D6-D16C-40AF-91DB-D39B81DC1AFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
