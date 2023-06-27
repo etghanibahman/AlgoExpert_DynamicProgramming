@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinNumberOfCoinsForChange",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfWaysToMakeChange", "Medium\NumberOfWaysToMakeChange\NumberOfWaysToMakeChange.csproj", "{75317F80-6852-4933-ABCA-CC123E582F9C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevenshteinDistance", "Medium\LevenshteinDistance\LevenshteinDistance.csproj", "{F616E9C2-9948-48AA-9A96-A6C7A5D1C4E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{75317F80-6852-4933-ABCA-CC123E582F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75317F80-6852-4933-ABCA-CC123E582F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75317F80-6852-4933-ABCA-CC123E582F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F616E9C2-9948-48AA-9A96-A6C7A5D1C4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F616E9C2-9948-48AA-9A96-A6C7A5D1C4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F616E9C2-9948-48AA-9A96-A6C7A5D1C4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F616E9C2-9948-48AA-9A96-A6C7A5D1C4E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{828CE982-CCD6-4345-83A9-D15EBCD12CDA} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
 		{523E9CCB-68F2-4F53-AEC9-695EA3D28ABB} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
 		{75317F80-6852-4933-ABCA-CC123E582F9C} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
+		{F616E9C2-9948-48AA-9A96-A6C7A5D1C4E3} = {13ECC4B8-D79C-48E2-BD25-7E5B766D2DFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AAB4CC66-D4F2-4476-9491-5D35C2032E3B}

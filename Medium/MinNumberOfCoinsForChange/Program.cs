@@ -10,8 +10,8 @@ namespace MinNumberOfCoinsForChange
             int n = 7;
 
             #region Test case 5
-            denoms = new int[] { 2, 1 };
-            n = 3;
+            //denoms = new int[] { 2, 1 };
+            //n = 3;
             #endregion
             Console.WriteLine($"MinNumber Of Coins For Change : { MinNumberOfCoinsForChange(n, denoms) }");
         }
